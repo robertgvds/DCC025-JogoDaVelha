@@ -1,5 +1,5 @@
 /**
- * @author rober
+ * @author Robert de Souza
  */
 
 package com.robert.jogodavelha;
